@@ -1,0 +1,8 @@
+Installation Instructions for DollVault 
+1. To down load Xcode, one can search in App Store on a MacBook and download the latest version. If one is already there, update might be needed.
+2. Once Xcode is open, one can choose “Open a project or file” and go the the folder named DollVault before choosing the file “DollVault.xcodeproj” to open the project.
+3. SwiftUI has already been imported in the files and it’s embedded in so there’s no need to download or install it.
+4. To run the project, the easier way is to use a simulator. One can simply click the app’s name on the top, a list of simulator options should show up. For demonstration I’ve chosen an iPhone 14 Pro but any iPhone simulator available would do.
+5. One can simply click the play button or click “Run” under “Product”.
+6. One does need to log on their Apple ID on the simulator device to run the app though. The
+app’s Icon is visible on the Home Screen of the simulator also. 
